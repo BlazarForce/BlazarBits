@@ -1,0 +1,24 @@
+{
+  "name": "BzB Mining POAP",
+  "description": "Bestowed upon individuals who actively participated in our inaugural NFT Raffle by methodically mining RAF through the utilization of Blazar tokens.",
+  "image": "ipfs://QmXZ5bQY3qt8fkia4B2Ak8Xcp6ENsA5Fso3xLMCoDbBDKh",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "POAP"
+    },
+    {
+      "trait_type": "AI",
+      "value": "Novel"
+    },
+    {
+      "trait_type": "Location",
+      "value": "DoDo Mines"
+    },
+    {
+      "trait_type": "Background",
+      "value": "PolyGalaxy"
+    }
+    
+  ]
+}
